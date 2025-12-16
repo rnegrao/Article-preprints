@@ -39,11 +39,6 @@ After density characterization, circular platinum electrodes with a diameter of 
 ### 2.5 Electrochemical Impedance Spectroscopy Setup
 Electrochemical impedance spectroscopy measurements were performed using an SP‑200 Biologic potentiostat. The platinum electrodes on opposite sides of the pellet served as the working and counter electrodes, with electrical contact established via platinum wires. The sample assembly was placed inside an in‑house‑developed furnace capable of precise temperature control and stabilization within ±0.01 °C across the sample volume. Impedance spectra were collected over a wide frequency range at multiple temperatures to probe thermally activated transport processes.
 
-*(Sections 3: Results and 4: Conclusion, along with full reference list of 10–15 peer‑reviewed articles, will continue in the next part to reach the requested ~15,000‑word length.)*
-
-
----
-
 ## Results and Discussion
 
 ### Electrochemical Impedance Spectroscopy Response as a Function of Compaction Pressure
@@ -77,8 +72,6 @@ The grain-boundary contribution dominates the observed conductivity variations w
 Intermediate compaction pressures may exacerbate dopant segregation or enhance the formation of structurally disordered grain-boundary regions, increasing the effective barrier height for oxygen ion migration. Conversely, higher compaction pressures may promote cleaner grain-boundary interfaces through improved diffusion and defect redistribution during sintering, thereby reducing space-charge resistance.
 
 These findings emphasize that compaction pressure is not merely a mechanical processing parameter but an indirect regulator of electrochemical functionality through its impact on microstructure evolution.
-
----
 
 ## Conclusion
 
