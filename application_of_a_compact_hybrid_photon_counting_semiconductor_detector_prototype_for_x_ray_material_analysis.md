@@ -8,7 +8,6 @@ In this work, the performance and applicability of a compact X-ray detector prot
 
 The primary objective of this study is to assess the detector performance with respect to spatial resolution and data quality in X-ray Powder Diffraction (XPD) measurements. Quantitative metrics such as the Modulation Transfer Function (MTF) are employed to characterize the intrinsic spatial resolving power of the detector, while two-dimensional diffraction images acquired from a LaB₆ reference powder are analyzed to validate the detector’s suitability for high-precision diffraction experiments. The results demonstrate that the compact Medipix3RX-based detector achieves excellent spatial resolution, stable energy calibration, and high-quality diffraction data, confirming its potential as a versatile and robust solution for laboratory and synchrotron X-ray material analysis applications.
 
----
 
 ## 1. Introduction
 
@@ -24,7 +23,6 @@ In this work, a compact X-ray detector prototype based on the Medipix3RX ASIC is
 
 An overview of the compact detector architecture and its unique design features is provided, followed by a detailed characterization of its performance. Particular attention is devoted to the assessment of spatial resolution through Modulation Transfer Function measurements, as well as to the evaluation of data quality in X-ray powder diffraction experiments. To demonstrate the detector’s imaging capabilities, large-area, low-noise, and high-resolution diffraction images of standard reference materials are acquired and analyzed. The results presented herein illustrate the suitability of the compact Medipix3RX-based detector for demanding X-ray material analysis applications and highlight its potential role in both synchrotron beamlines and advanced laboratory-based X-ray facilities.
 
----
 
 ## 2. Methodology
 
@@ -148,7 +146,6 @@ The results presented in this study highlight the versatility of the compact det
 
 The modular architecture and scalable readout scheme further suggest that the detector concept can be extended to larger active areas without compromising performance. Such scalability is essential for future diffraction and imaging experiments that demand increased angular coverage or higher throughput.
 
----
 
 ## 4. Conclusions
 
