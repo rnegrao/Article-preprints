@@ -39,9 +39,9 @@ After density characterization, circular platinum electrodes with a diameter of 
 ### 2.5 Electrochemical Impedance Spectroscopy Setup
 Electrochemical impedance spectroscopy measurements were performed using an SP‑200 Biologic potentiostat. The platinum electrodes on opposite sides of the pellet served as the working and counter electrodes, with electrical contact established via platinum wires. The sample assembly was placed inside an in‑house‑developed furnace capable of precise temperature control and stabilization within ±0.01 °C across the sample volume. Impedance spectra were collected over a wide frequency range at multiple temperatures to probe thermally activated transport processes.
 
-## Results and Discussion
+##3. Results and Discussion
 
-### Electrochemical Impedance Spectroscopy Response as a Function of Compaction Pressure
+###3.1 Electrochemical Impedance Spectroscopy Response as a Function of Compaction Pressure
 
 Electrochemical impedance spectroscopy measurements were carried out over a wide temperature range for all GDC pellets consolidated under different isostatic compaction pressures. Representative Nyquist plots (−Z'' vs. Z') exhibit the characteristic response of dense oxygen-ion–conducting ceramics, consisting of two partially overlapping semicircular arcs followed by a low-frequency electrode-related contribution. The high-frequency intercept on the real axis corresponds to the bulk (grain interior) resistance, whereas the intermediate-frequency arc is attributed to grain-boundary contributions. The low-frequency tail, which becomes more pronounced at elevated temperatures, is associated with electrode polarization and gas–solid interfacial processes.
 
@@ -49,7 +49,7 @@ A systematic evolution of the impedance spectra with compaction pressure is obse
 
 This behavior demonstrates that compaction pressure does not simply scale conductivity monotonically through densification, but instead induces competing microstructural effects that influence bulk and grain-boundary transport differently.
 
-### Arrhenius Analysis and Temperature Dependence of Conductivity
+###3.2 Arrhenius Analysis and Temperature Dependence of Conductivity
 
 The temperature dependence of the ionic conductivity was extracted from impedance data by fitting equivalent electrical circuits composed of parallel resistor–constant phase element (R–CPE) units. Bulk and grain-boundary resistances were separated whenever possible, and total conductivity values were calculated using the pellet geometry.
 
@@ -57,7 +57,7 @@ Arrhenius plots of the total ionic conductivity (ln σ vs. 1/T) reveal thermally
 
 Despite similar activation energies, the absolute conductivity values differ significantly among samples. Notably, a pronounced minimum in conductivity is observed for samples compacted at approximately 100 MPa. This minimum is evident across the entire temperature range, ruling out artifacts associated with electrode polarization or fitting procedures. The persistence of this minimum strongly suggests a microstructural origin rather than a change in intrinsic defect chemistry.
 
-### Correlation Between Density and Electrical Conductivity
+###3.3 Correlation Between Density and Electrical Conductivity
 
 Post-sintering density measurements performed using the Archimedes method reveal a non-linear relationship between compaction pressure and final relative density. While an overall trend of increasing density with compaction pressure is observed, the rate of densification decreases at intermediate pressures, and subtle density plateaus or inflection points appear near the 90–110 MPa range.
 
@@ -65,7 +65,7 @@ The coincidence of the conductivity minimum with this density inflection strongl
 
 At higher compaction pressures, the applied stress is sufficient to collapse interparticle voids more uniformly, resulting in improved particle rearrangement and enhanced sintering kinetics. Consequently, grain boundaries become more coherent, and the effective grain-boundary resistance decreases, restoring higher ionic conductivity.
 
-### Grain-Boundary Effects and Space-Charge Considerations
+###3.4 Grain-Boundary Effects and Space-Charge Considerations
 
 The grain-boundary contribution dominates the observed conductivity variations with compaction pressure. This is consistent with space-charge models for doped ceria, in which grain boundaries exhibit depleted oxygen vacancy concentrations due to dopant segregation and electrostatic potential barriers. Variations in grain-boundary structure, chemistry, and thickness introduced during ceramic processing can therefore exert a disproportionate influence on total conductivity.
 
@@ -73,7 +73,7 @@ Intermediate compaction pressures may exacerbate dopant segregation or enhance t
 
 These findings emphasize that compaction pressure is not merely a mechanical processing parameter but an indirect regulator of electrochemical functionality through its impact on microstructure evolution.
 
-## Conclusion
+##4. Conclusion
 
 In this work, the electrical properties of gadolinia-doped ceria electrolytes were systematically investigated as a function of isostatic compaction pressure using in-house developed ceramic fabrication and processing tools, and high-stability electrochemical characterization infrastructure. By isolating compaction pressure as the sole variable during sample preparation, its influence on ionic conductivity was unambiguously identified.
 
