@@ -1,5 +1,5 @@
 # Application of a Compact Hybrid Photon-Counting Semiconductor Detector Prototype for X-Ray Material Analysis
-
+(Dated: June 1, 2025)
 ## Abstract
 
 Hybrid photon-counting X-ray detectors have emerged over the past two decades as a cornerstone technology in advanced X-ray material analysis and imaging, driven by their intrinsic advantages in terms of single-photon sensitivity, intrinsic energy discrimination, high dynamic range, and negligible readout noise. In contrast to conventional integrating detectors, photon-counting architectures enable direct quantification of individual X-ray quanta, leading to superior signal-to-noise characteristics, improved contrast, and enhanced quantitative accuracy across a broad range of experimental conditions. These features have positioned hybrid pixel detectors as a critical enabling technology for modern synchrotron and laboratory-based X-ray techniques, including diffraction, scattering, spectroscopy, and high-resolution imaging.
