@@ -1,5 +1,5 @@
 # Influence of Compaction Pressure on the Ionic Conductivity of Gadolinium‑Doped Ceria (GDC) for Intermediate‑Temperature Solid Oxide Fuel Cells
-
+(Dated: December 1, 2025)
 ## Abstract
 Gadolinium‑doped ceria (GDC) is one promising oxygen‑ion conducting ceramic electrolytes for intermediate‑temperature solid oxide fuel cells (IT‑SOFCs), owing to its high ionic conductivity at reduced operating temperatures, favorable defect chemistry, and compatibility with a broad range of electrode materials. Despite extensive understanding of its intrinsic transport mechanisms, the influence of ceramic processing parameters on the effective electrical behavior of polycrystalline GDC remains an active topic for investigation. In particular, processing steps that govern green body formation and sintering can strongly affect microstructural features such as density, grain size, grain boundary character, and residual porosity, which in turn determine the macroscopic ionic conductivity.
 
