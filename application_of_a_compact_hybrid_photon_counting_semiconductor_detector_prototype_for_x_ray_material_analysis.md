@@ -48,7 +48,7 @@ By operating the detector at an optimized threshold setting, the signal-to-noise
 
 The compact X-ray detector integrates a 1 × 6 array of Medipix3RX ASICs within a single sensor module, forming a so-called Hexa module. Figure XX schematically illustrates the physical dimensions and hardware configuration of the detector, highlighting the arrangement of the ASICs, sensor, cooling elements, and readout electronics.
 
-**Figure XX:** Compact X-Ray Detector
+**Figure XX:** ![Compact X-Ray Detecto](detector.png)
 
 ### 2.4 Sensor Module Mechanics and Thermal Management
 
