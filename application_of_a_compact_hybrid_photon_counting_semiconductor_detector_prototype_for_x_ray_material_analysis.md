@@ -111,7 +111,7 @@ The acquired two-dimensional diffraction images were corrected for geometrical d
 
 Figure LL(A) shows the resulting two-dimensional diffraction image of the LaB₆ sample, while Figure LL(B) presents the corresponding azimuthally integrated diffraction pattern obtained using the GSAS-II software package.
 
- ![2D diffraction image of LaB₆ powder](figures/diffraction.png)
+ ![2D diffraction](figures/diffraction.PNG)
 **Figure LL:** (A) 2D diffraction image of LaB₆ powder. (B) Integrated diffraction pattern of LaB₆ obtained using GSAS-II
 
 The integrated diffraction pattern exhibits a well-behaved background, represented by the red curve, which is primarily attributed to X-ray scattering and background contributions from the experimental setup. The sharp and well-resolved Bragg peaks demonstrate the detector’s capability to deliver high-quality diffraction data suitable for quantitative crystallographic analysis.
