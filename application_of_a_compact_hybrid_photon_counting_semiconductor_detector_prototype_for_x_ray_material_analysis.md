@@ -46,10 +46,10 @@ A defining feature of the Medipix3RX architecture is its adjustable per-pixel en
 
 By operating the detector at an optimized threshold setting, the signal-to-noise ratio is significantly improved, particularly in low-dose or low-flux imaging conditions. In the present work, threshold values were selected to balance noise suppression with detection efficiency, ensuring reliable photon counting while maintaining sensitivity to the relevant X-ray energies used in the experiments.
 
-The compact X-ray detector integrates a 1 × 6 array of Medipix3RX ASICs within a single sensor module, forming a so-called Hexa module. Figure XX schematically illustrates the physical dimensions and hardware configuration of the detector, highlighting the arrangement of the ASICs, sensor, cooling elements, and readout electronics.
+The compact X-ray detector integrates a 1 × 6 array of Medipix3RX ASICs within a single sensor module, forming a so-called Hexa module. Figure 1 schematically illustrates the physical dimensions and hardware configuration of the detector, highlighting the arrangement of the ASICs, sensor, cooling elements, and readout electronics.
 
  ![Compact X-Ray Detector](/figures/detector.png)
- **Figure XX:**
+ **Figure 1:**
 
 ### 2.4 Sensor Module Mechanics and Thermal Management
 
